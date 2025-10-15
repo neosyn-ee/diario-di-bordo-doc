@@ -1,0 +1,8 @@
+{
+  "label": "BE",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Tutta la documentazione riguardante il backend del progetto"
+  }
+}
